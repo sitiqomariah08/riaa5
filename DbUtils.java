@@ -6,7 +6,7 @@ package pertemuan_05;
 
 /**
  *
- * @author Nidzzz
+ * @author IT GRC
  */
 import java.sql.ResultSet;
 import java.sql.ResultSetMetaData;
